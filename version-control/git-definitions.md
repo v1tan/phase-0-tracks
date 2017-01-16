@@ -20,4 +20,4 @@ A commit is when you update the master files with changes you made in a separate
 
 A merge conflict happens when Git cannot consolidate multiple changes during a merge, and will usually return an error message that tells us what went wrong.
 
-OOPS!
+OOPS! I did it again
