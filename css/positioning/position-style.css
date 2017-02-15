@@ -1,0 +1,25 @@
+.full_octopus {
+	position:relative;
+	width:300px;
+}
+
+.octopus {
+	z-index:-1;
+	padding-top:100px;
+	margin-left:100px;
+}
+
+.hat {
+	position:absolute;
+	z-index:1;
+	left:88px;
+	top:35px;
+}
+
+.glasses {
+	position:absolute;
+	z-index:1;
+	left:150px;
+	top:205px;
+}
+
