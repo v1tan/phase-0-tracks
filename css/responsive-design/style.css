@@ -9,6 +9,8 @@ cite {
   margin-top: 10px;
 }
 
+
+
 #external-links ul {
   list-style-type: none;
   padding-left: 0px;
@@ -29,4 +31,36 @@ figure {
 figcaption {
   font-style: italic;
   text-align: right;
+}
+
+main {
+  width:80%;
+}
+body {
+  max-width:960px;
+  min-width:480px;
+}
+
+#external-links {
+  width:20%;
+  display:inline-block;
+  vertical-align:top;
+}
+
+/* @media screen and (max-width: 500px) {
+  body {
+    background-color: hotpink;
+  }
+}
+*/
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size:50%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  img {
+    width:50%;
+  }
 }
