@@ -1,0 +1,18 @@
+Using an elevator.
+
+1. Identify the interface for selecting which floor.
+2. Starting from the top left number, go right until you hit the right edge of the interface, then look down for the next number and iterate left.
+3. When you hit the left edge, look down for the next number and iterate right.
+4. Repeat 2&3 until you see the number of the floor you wish to go to. Then press the button.
+
+Common life task: Washing dishes.
+
+1. Make sure you have the right tool (sponge) equipped.
+2. Find the dishwashing soap, and apply it to the sponge. 
+3. Turn on hot water.
+4. Search through left sink for a dirty dish, then wipe it with the sponge until it is covered in soap.
+5. Put it on the right side of the sink.
+6. Repeat 4&5 until left sink is empty.
+7. Put down sponge.
+8. Search through right sink for a dish, then rinse with water until there is no soap left. Put dish in rack.
+9. Repeat 8 until right sink is empty.
